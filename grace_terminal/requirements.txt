@@ -1,0 +1,5 @@
+websockets
+aiohttp
+psutil
+pyyaml
+cryptography
